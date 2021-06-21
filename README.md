@@ -17,9 +17,29 @@ Pour cela nous allons utiliser l'option FORK de Github.
 ### Récupération des modifications
 Afin de récupérer les modifications faites à ce moment vous allez effectuer ce que l'on appelle un "Fetch and Merge" :  : ![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/fetchandmerge.PNG "Github merge")  
 
-
 ## Manipulations sur le dépôt
-### Modification sur un fichier
+### Création d'un nouveau fichier
+Vous allez créer votre propre partie du dépot.
+Pour cela vous allez créer un nouveau fichier.
+Dans le nom du fichier vous allez taper : [votrenom]/fichier.md
+Dans le contenu du fichier vous allez taper :
+```
+  # Je suis un titre 1
+
+  ## Je suis un titre 2
+
+  ### Je suis un titre 3
+
+  ### Ceci est une image
+  ![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/fork.PNG "Github fork")  
+
+  ### Ceci est du code
+  ```
+  Je suis du code
+  ```
+```
+![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/newfile.PNG "Github newfile")  
+
 
 
 ### Appliquer vos nouvelles modifications sur le dépôt Github
