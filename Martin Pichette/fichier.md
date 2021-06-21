@@ -5,7 +5,8 @@
 ### Je suis un titre 3
 
 ### Ceci est une image
-![alt text](https://github.com/ellehaas/CAC-atelier1/bloob/main/img/fork.PNG "Github img"
+![alt text](https://github.com/ellehaas/CAC-Atelier1/blob/main/img/fork.PNG "Github img"
 
 ### Ma propre image
+
 ![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/fork.PNG "Github img")
