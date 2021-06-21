@@ -31,14 +31,13 @@ Dans le contenu du fichier vous allez taper :
   ### Je suis un titre 3
 
   ### Ceci est une image
-  ![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/fork.PNG "Github fork")  
+  ![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/fork.PNG "Github img")
 
-  ### Ceci est du code
-  ```
-  Je suis du code
-  ```
+  ### Ma propre image
+  ![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/fork.PNG "Github img")
 ```
 ![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/newfile.PNG "Github newfile")  
+![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/savefile.PNG "Github savefile")  
 
 
 
