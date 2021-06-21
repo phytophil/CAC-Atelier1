@@ -51,5 +51,5 @@ Dans le contenu du fichier vous allez taper :
 
 
 ## Si vous voulez jeter un oeil aux lignes de commande
-Ensuite prenez rapidement connaissance des commandes : [Liste des commandes pour Git](GIT_commandes.md)  
+Ensuite prenez rapidement connaissance des commandes : [Liste des commandes pour Git](https://github.com/ellenhaas/INF2050_Laboratoires/blob/master/Lab1/GIT_commandes.md)  
 Vous pourrez vous servir de ce fichier de commandes comme aide mémoire.  
