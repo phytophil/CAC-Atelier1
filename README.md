@@ -37,14 +37,16 @@ Dans le contenu du fichier vous allez taper :
   ![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/fork.PNG "Github img")
 ```
 ![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/newfile.PNG "Github newfile")  
+### Enregistrement des modifications
 ![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/savefile.PNG "Github savefile")  
 
 
 
-### Appliquer vos nouvelles modifications sur le dépôt Github
-#### Sur votre Git Bash (ou console sur Linux)
+## Envoyez vos modifications sous forme de pull-request
+![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/pull.PNG "Github pull")  
+![alt text](https://github.com/ellenhaas/CAC-Atelier1/blob/main/img/validatepull.PNG "Github validatepull")  
 
-### Vérifier vos modifications
+
 
 
 
